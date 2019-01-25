@@ -1,1 +1,2 @@
 it is file1
+modified file1
